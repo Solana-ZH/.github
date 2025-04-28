@@ -1,70 +1,69 @@
-# Solar 社區開發者庫
+# Solar 社区开发者库
 
-歡迎來到 Solar 社區開發者資源庫！這裡匯聚了 Solar 社區成員貢獻的精品開源項目，專為華語 Builder 的中文技術教程、參與Solana生態項目共建機會，致力於幫助中文開發者更好地參與 Solana 生態建設，幫助潛力華語生態項目更好地被發現。
-
----
-
-## 🤝 參與 Solar 開源共建
-
-我們鼓勵開發者加入 Solar 參與潛力生態項目和公共物品的開源共建，包括參與潛力項目貢獻、Solar網站共建、教程與示例代碼完善、技術論壇互助等。
-
-- **貢獻指南**：了解如何參與 ➔ [查看貢獻指南](CONTRIBUTING.md)
-
-## Solar Featured 
-
-Solar社區成員參與貢獻的精品開源項目，包括Solana生態公共物品，潛力項目等。
-
-**敬請期待**
+欢迎来到 Solar 社区开发者资源库！这里汇聚了 Solar 社区成员贡献的优质开源项目，专为华语 Builder 提供中文技术教程和参与 Solana 生态项目共建的机会，致力于帮助中文开发者更好地融入 Solana 生态建设，也帮助潜力华语项目更好地被发现。
 
 ---
 
-## 📚 Solana 精選開發教程
+## 🤝 参与 Solar 开源共建
 
-### 🏕️ Solana 開發訓練營
-由 Solana 官方推出的開發者訓練營，包含系統化的教學視頻與Demo實作，適合快速上手。
-
-- 教學視頻：- [Solana Developer Bootcamp 2024](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc&index=1)
-- Demo代碼：- [Bootcamp Repository](https://github.com/solana-developers/developer-bootcamp-2024)
-
-**中文版即將上線，敬請期待**
-
-### 🎓 Solana 開發課程
-Solana 官方推出的最為全面的技術課程，包含教程文檔與範例代碼。
-
-- 課程文檔：- [Solana Development Courses](https://solana.com/developers/courses)
-
-**中文版即將上線，敬請期待**
-
-### 📖 Solana 中文開發精簡教程
-由 Solar 中文社區整理的快速入門版教程，適合新手快速掌握基礎概念與開發流程。
-
-- [Solana 中文開發精簡教程](https://www.solanazh.com/)
-
-### 🔥 適合 EVM Builder 的 Solana 開發教程
-針對以太坊開發者設計的 Solana 入門課程，從熟悉的概念快速切換到 Solana。
-
-- [Rareskills Solana 課程（Decert.me翻譯版）](https://decert.me/tutorial/rareskills-solana-course/)
-
-### 🦀 Rust 從入門到精通
-Solana 開發不可或缺的 Rust 編程語言學習推薦資源，適合零基礎至進階學習者。
-
-- [Rust 全書（中文版）](https://course.rs/about-book.html)
+我们鼓励开发者加入 Solar，参与潜力生态项目和公共产品的开源共建，包括项目贡献、Solar 网站共建、教程与示例代码完善、技术论坛互助等。
 
 ---
 
-## 🗣️ Solana 中文技術論壇
+## 🌟 Solar Featured 
 
-Solar 社區建設中的中文技術交流論壇，匯聚 Solana 開發者，分享技術經驗、尋求協作機會。
+Solar 社区成员参与贡献的优质开源项目，包括 Solana 生态公共产品和潜力项目。
 
-- [SolDev 中文論壇](https://soldev.cn/)
+**敬请期待**
 
 ---
 
-## 🚀 關於 Solar
+## 📚 Solana 精选开发教程
 
-Solar 是面向全球華語區 Solana 愛好者、開發者、建設者的技術社區，致力於推動 Solana 生態在中文社區的普及與發展。
+### 🏕️ Solana 开发训练营
+由 Solana 官方推出的开发者训练营，包含系统化的教学视频与 Demo 实作，适合快速入门。
 
-加入我們，一起點燃 Solar 的光芒！
+- 教学视频：[Solana Developer Bootcamp 2024](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc&index=1)
+- Demo 代码：[Bootcamp Repository](https://github.com/solana-developers/developer-bootcamp-2024)
 
-- [申请成为Solar社区成员](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdwQOjHyctNqpP4FlE6G_tSPUdpWwnIqqGp4SY7CThyfxByIA/viewform?usp=send_form)
+**中文版即将上线，敬请期待**
 
+### 🎓 Solana 开发课程
+Solana 官方推出的最全面开发者课程，包含教程文档与示例代码。
+
+- 课程文档：[Solana Development Courses](https://solana.com/developers/courses)
+
+**中文版即将上线，敬请期待**
+
+### 📖 Solana 中文开发精简教程
+由 Solar 中文社区整理的快速入门教程，适合新手快速掌握基础概念与开发流程。
+
+- [Solana 中文开发精简教程](https://www.solanazh.com/)
+
+### 🔥 适合 EVM Builder 的 Solana 开发教程
+专为以太坊开发者设计的 Solana 入门教程，从熟悉的概念快速切换到 Solana 生态。
+
+- [Rareskills Solana 课程（Decert.me 翻译版）](https://decert.me/tutorial/rareskills-solana-course/)
+
+### 🦀 Rust 从入门到精通
+Solana 开发不可或缺的 Rust 编程语言学习资源，适合零基础到进阶学习者。
+
+- [Rust 全书（中文版）](https://course.rs/about-book.html)
+
+---
+
+## 🗣️ Solana 中文技术论坛
+
+Solar 社区正在建设中的中文技术交流论坛，聚集 Solana 开发者，分享技术经验，寻找协作机会。
+
+- [SolDev 中文论坛](https://soldev.cn/)
+
+---
+
+## 🚀 关于 Solar
+
+Solar 是面向全球华语区 Solana 爱好者、开发者和建设者的技术社区，致力于推动 Solana 生态在中文社区的发展与普及。
+
+加入我们，一起点燃 Solar 的光芒！
+
+- [申请成为 Solar 社区成员](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdwQOjHyctNqpP4FlE6G_tSPUdpWwnIqqGp4SY7CThyfxByIA/viewform?usp=send_form)
