@@ -8,6 +8,9 @@
 
 我们鼓励开发者加入 Solar，参与潜力生态项目和公共产品的开源共建，包括项目贡献、Solar 网站共建、教程与示例代码完善、技术论坛互助等。
 
+- [查看贡献指南](CONTRIBUTING.md)
+- [进入 Discussions 发起第一条交流](https://github.com/Solana-ZH/discussions)
+
 ---
 
 ## 🌟 Solar Featured 
