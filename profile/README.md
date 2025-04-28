@@ -26,14 +26,14 @@ Solar 社区成员参与贡献的优质开源项目，包括 Solana 生态公共
 - 教学视频：[Solana Developer Bootcamp 2024](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc&index=1)
 - Demo 代码：[Bootcamp Repository](https://github.com/solana-developers/developer-bootcamp-2024)
 
-**中文版即将上线，敬请期待**
+**中文版敬请期待**
 
 ### 🎓 Solana 开发课程
 Solana 官方推出的最全面开发者课程，包含教程文档与示例代码。
 
 - 课程文档：[Solana Development Courses](https://solana.com/developers/courses)
 
-**中文版即将上线，敬请期待**
+**中文版敬请期待**
 
 ### 📖 Solana 中文开发精简教程
 由 Solar 中文社区整理的快速入门教程，适合新手快速掌握基础概念与开发流程。
