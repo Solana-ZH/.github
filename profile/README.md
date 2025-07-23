@@ -1,48 +1,43 @@
-# Solar 社区开发者库
+# Solar Repo
 
-欢迎来到 Solar 社区开发者资源库！这里汇聚了 Solar 社区成员贡献的优质开源项目，专为华语 Builder 提供中文技术教程和参与 Solana 生态项目共建的机会，致力于帮助中文开发者更好地融入 Solana 生态建设，也帮助潜力华语项目更好地被发现。
-
----
-
-## 🤝 参与 Solar 开源共建
-
-我们鼓励开发者加入 Solar，参与潜力生态项目和公共产品的开源共建，包括项目贡献、Solar 网站共建、教程与示例代码完善、技术论坛互助等。
-
-- [查看贡献指南](CONTRIBUTING.md)
-- [进入 Discussions 发起第一条交流](https://github.com/Solana-ZH/discussions)
+Repos for Solana proudly built by Solar builders. Follow us for latest update!
 
 ---
 
-## 🌟 Solar Featured 
+## 🤝 Contribute to Solar Repo
 
-Solar 社区成员参与贡献的优质开源项目，包括 Solana 生态公共产品和潜力项目。
+Make an impact by contributing to Solana with Solar. 
 
-**敬请期待**
-
----
-
-## 📚 Solana 精选开发教程
-
-### 🏕️ Solana 开发训练营
-由 Solana 官方推出的开发者训练营，包含系统化的教学视频与 Demo 实作，适合快速入门。
-
-- 教学视频：[Solana Developer Bootcamp 2024](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc&index=1)
-- Demo 代码：[Bootcamp Repository](https://github.com/solana-developers/developer-bootcamp-2024)
+- [How to contribute](CONTRIBUTING.md)
+- [Apply for a bounty](builder-bounty.md)
 
 ---
 
-## 🗣️ Solana 中文技术论坛
+## 🌟 Solar Co-op projects
 
-Solar 社区正在建设中的中文技术交流论坛，聚集 Solana 开发者，分享技术经验，寻找协作机会。
+"Co-op" projects aims to provide builders a 2-10 weeks industry working experience with high potential projects in Solana ecosystem. Meanwhile, it provides Solana projects an opportunity to find potential candidates and co-build with community. 
 
-- [SolDev 中文论坛](https://soldev.cn/)
+Join Solar Talents pool: https://forms.gle/oBuqz8DH85krAw3b6 
+List your project to Solar ecosystem: https://forms.gle/PDj2371Gqg1az2Bb9
+
+**Solar Co-op Coming Soon**
 
 ---
 
-## 🚀 关于 Solar
+## 📚 Solana Developer Bootcamp
+The bootcamp is for anyone interested in learning how to build on a blockchain. You do not require any knowledge of blockchains, smart contracts, or Rust to get started. We will cover everything you need to know to get starting building on the Solana blockchain today.
 
-Solar 是面向全球华语区 Solana 爱好者、开发者和建设者的技术社区，致力于推动 Solana 生态在中文社区的发展与普及。
+***CN version:***
+- Bootcamp Video - Bilibili：[Solana 开发者训练营](https://space.bilibili.com/3546933079574821)
+- Demo Code：[Bootcamp 代码库](https://github.com/Solana-ZH/solana-bootcamp-zh)
 
-加入我们，一起点燃 Solar 的光芒！
 
-- [申请成为 Solar 社区成员](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdwQOjHyctNqpP4FlE6G_tSPUdpWwnIqqGp4SY7CThyfxByIA/viewform?usp=send_form)
+***EN version:***
+- Bootcamp Video - Youtube：[Solana Developer Bootcamp 2024](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc&index=1)
+- Demo Code：[Bootcamp Repository](https://github.com/solana-developers/developer-bootcamp-2024)
+
+
+
+
+
+
