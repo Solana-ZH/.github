@@ -13,7 +13,7 @@ Make an impact by contributing to Solana with Solar.
 
 ---
 
-## 🌟 Solar Co-op projects
+## 🌟 Solar Co-op 
 
 "Co-op" projects aims to provide builders a 2-10 weeks industry working experience with high potential projects in Solana ecosystem. Meanwhile, it provides Solana projects an opportunity to find potential candidates and co-build with community. 
 
